@@ -31,7 +31,7 @@ setup(
     ],
     entry_points={
         "console_scripts": [
-            "ppt-to-md=src.ppt_to_md.main:main",
+            "ppt-to-md=ppt_to_md.main:main",
         ],
     },
 )
