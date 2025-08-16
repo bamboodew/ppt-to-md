@@ -11,7 +11,7 @@ setup(
     description="一个将PowerPoint文件转换为Markdown格式的工具",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/ppt-to-md",
+    url="https://github.com/bamboodew/ppt-to-md",
     packages=find_packages(where="src"),
     package_dir={"": "src"},
     classifiers=[

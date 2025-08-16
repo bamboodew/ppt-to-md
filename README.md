@@ -18,8 +18,19 @@
 
 ### 安装
 
+#### 方法1：从源码安装（推荐）
+
 ```bash
-pip install ppt-to-md
+git clone https://github.com/bamboodew/ppt-to-md.git
+cd ppt-to-md
+pip install -e .
+```
+
+#### 方法2：直接安装（需要先发布到PyPI）
+
+```bash
+# 注意：此方法目前不可用，因为包尚未发布到PyPI
+# pip install ppt-to-md
 ```
 
 ### 使用
