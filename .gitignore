@@ -139,4 +139,4 @@ dmypy.json
 Thumbs.db
 
 # Output files
-*.md
+# *.md  # Commented out to allow README.md files to be tracked
